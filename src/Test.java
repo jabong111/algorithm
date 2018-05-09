@@ -16,6 +16,7 @@ public class Test {
 			i++;
 		}
 		arr[i] = Data;
+		System.out.println("hello git");
 
 		for(int j= i;j>=0;j--) {
 			if(arr[j] == 10) {
